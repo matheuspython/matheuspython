@@ -27,5 +27,7 @@ Sou programador desde os meus 16 anos, na época eu programava em python, e fazi
 
 
 <!--
+
 baseado no readme: https://github.com/ARTHURPC03/ARTHURPC03
+
 -->
