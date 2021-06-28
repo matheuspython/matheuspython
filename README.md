@@ -15,7 +15,7 @@ Sou programador desde os meus 16 anos, na época eu programava em python, e fazi
     <img src="https://github.com/ARTHURPC03/ARTHURPC03/raw/master/github/youtube.png" alt="youtube" height="50">
   </a>
   <a href="https://www.linkedin.com/in/matheus-souza-b0a8731b8/">
-    <img style="border:1px solid" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.S0dfs_VLPjXaoEKV7EjfTAAAAA%26pid%3DApi&f=1" alt="linkedin" height="50">
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.S0dfs_VLPjXaoEKV7EjfTAAAAA%26pid%3DApi&f=1" alt="linkedin" height="50">
   </a>
 </div>
 </div>
